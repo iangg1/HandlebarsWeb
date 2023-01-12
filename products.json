@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"status": "on",
+		"thumbnails": [
+			{
+				"path": "C:\\Users\\ian01\\OneDrive\\Escritorio\\cursito\\backend\\desafio2\\public\\img\\CocaCola.jpg",
+				"originalName": "CocaCola.jpg"
+			}
+		],
+		"havePics": true,
+		"title": "Coca-Cola",
+		"description": "Coca-Cola 500ml",
+		"code": "25232",
+		"price": "5",
+		"stock": "35",
+		"category": "soda"
+	},
+	{
+		"id": 2,
+		"status": false,
+		"thumbnails": [
+			{
+				"path": "C:\\Users\\ian01\\OneDrive\\Escritorio\\cursito\\backend\\desafio2\\public\\img\\7up.jpg",
+				"originalName": "7up.jpg"
+			}
+		],
+		"havePics": true,
+		"title": "7up",
+		"description": "7up 1,5lt",
+		"code": "342",
+		"price": "8",
+		"stock": "27",
+		"category": "soda"
+	},
+	{
+		"id": 3,
+		"status": "on",
+		"thumbnails": [],
+		"havePics": false,
+		"title": "Rad-60",
+		"description": "Rad 60 2lts",
+		"code": "252",
+		"price": "13",
+		"stock": "3",
+		"category": "energy drinks"
+	},
+    {
+		"id": 4,
+		"status": false,
+		"thumbnails": [
+			{
+				"path": "C:\\Users\\ian01\\OneDrive\\Escritorio\\cursito\\backend\\desafio2\\public\\img\\Pepsi.jpg",
+				"originalName": "Pepsi.jpg"
+			}
+		],
+		"havePics": true,
+		"title": "Pepsi",
+		"description": "Pepsi 3lt",
+		"code": "342",
+		"price": "10",
+		"stock": "14",
+		"category": "soda"
+	}
+]
